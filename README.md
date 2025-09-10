@@ -21,14 +21,16 @@ All basic and advanced tasks can be done by executing commands. The commands are
 
 The ls command is used to display a list of content of a directory.
 
- Syntax: ls
+ Syntax: ls  <img width="619" height="116" alt="image" src="https://github.com/user-attachments/assets/e703fb1b-a449-4f67-b2ef-ffa030c1b1e2" />
+
 
 
 ### 2)	pwd Command
 
 The pwd command is used to display the location of the current working directory.
 
-Syntax: pwd
+Syntax: pwd  <img width="221" height="55" alt="image" src="https://github.com/user-attachments/assets/3bcf359a-cf5b-4db2-939e-c6c761b75b05" />
+
 
  
 ### 3)	mkdir Command
@@ -36,6 +38,7 @@ Syntax: pwd
 The mkdir command is used to create a new directory under any directory.
 
 Syntax: mkdir <directory name>
+<img width="265" height="43" alt="image" src="https://github.com/user-attachments/assets/c9b1d2d6-305b-4a82-8752-0eb14174745c" />
 
 
 ### 4)	rmdir Command
@@ -43,6 +46,8 @@ Syntax: mkdir <directory name>
 The rmdir command is used to delete a directory.
 
 Syntax: rmdir <directory name>
+<img width="220" height="41" alt="image" src="https://github.com/user-attachments/assets/c41d0b9b-6004-42e7-a110-16bc88995295" />
+
 
 
 ### 5)	cd Command
@@ -50,6 +55,7 @@ Syntax: rmdir <directory name>
 The cd command is used to change the current directory.
 
 Syntax: cd <directory name>
+<img width="186" height="49" alt="image" src="https://github.com/user-attachments/assets/6b0df743-e5b6-4095-a52f-7a3404b45ca5" />
 
 
 ### 6)	cat Command
@@ -57,6 +63,9 @@ Syntax: cd <directory name>
 The cat command is a multi-purpose utility in the Linux system. It can be used to create a file, display content of the file, copy the content of one file to another file, and more.
 
 Syntax: cat [OPTION]... [FILE]..
+
+<img width="207" height="59" alt="image" src="https://github.com/user-attachments/assets/e301147f-b1b8-4530-91e2-a0d28b540e37" />
+
 
  
 ### 7)	cp Command
